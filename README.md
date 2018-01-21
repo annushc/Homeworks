@@ -1,11 +1,21 @@
 # Homework 1
 ## Seminar 1, group *БИЯ1712*
-### Themes:
-* Система контроля версий Git
-* Язык текстовой системы Markdown
 
 # Profile Anna Smirnova 
-<img src="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200"/>
+
+<img scr="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200" align="top"/>                     <p>name_<br>
+name<br>
+name</p>
+
+
+<br><img scr="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200" align="top"> 
+  Anna Smirnova                                                                                                                      Moscow
+  
+# Pictures that inspire me
+<img scr="https://pp.userapi.com/c841030/v841030913/55ee4/7ctHybpbAxY.jpg" width="200" height="200"/>   <img scr="https://pp.userapi.com/c834301/v834301156/41a5e/uPowXJlQMes.jpg" width="200" height="200"/>   <img scr="https://pp.userapi.com/c840025/v840025156/1d3be/7C6qm1nLc48.jpg" width="200" height="200"/>   <img scr="https://pp.userapi.com/c639429/v639429962/61026/bxv1aUL0dHU.jpg" width="200" height="200"/>
+
+
+
 
 # Links to social networks:
 * [Telegram](https://t.me/annushc)
@@ -15,8 +25,8 @@
 * [Gmail](mailto:annushc@gmail.ru)
 * [Mail](mailto:annushc@mail.ru)
 # Timetable
-Time|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
----|:---:|---:|---:|---:|---:|---:|
+Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |9:00-10:20|||Practical course of the second foreighn language (French)
 10:30-11:50||Practical course of the first foreighn language (Practice of speech)|Practical course of the first foreighn language (Video)||Practical course of the first foreighn language (Grammar)|
 12:10-13:30||Practical course of the second foreighn language (French)|Practical course of the first foreighn language (Practice of speech)|Practical course of the first foreighn language (Phonetics)|Practical course of the first foreighn language (Grammar)|
@@ -25,12 +35,4 @@ Time|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 16:40-18:00|Digital literacy (Seminar)||||
 18:10-19:30|||History and culture of Great Britain (Lecture)|||
 
-Day/Time|9:00-10:20|10:30-11:50|12:10-13:30|13:40-15:00|15:10-16:30|16:40-18:00|18:10-19:30 
----|:---:|---:|---:|---:|---:|---:|---:
-Sunday|нет|не знаю
-Monday|нет|да
-Tuesday|не знаю|да
-Wednesday|да|не знаю
-Thursday|не знаю|нет
-Friday|да|нет
-Saturday|
+
