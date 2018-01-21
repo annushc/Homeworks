@@ -2,15 +2,6 @@
 ## Seminar 1, group *БИЯ1712*
 
 # Profile Anna Smirnova 
-
-<img scr="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200" align="top"/>                     <p>name_<br>
-name<br>
-name</p>
-
-
-<br><img scr="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200" align="top"> 
- 
- 
 <img scr="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200" align="left"/> 
 name 
 name 
