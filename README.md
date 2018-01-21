@@ -4,5 +4,9 @@
 * Система контроля версий Git
 * Язык текстовой системы Markdown
 
-# [Anna Smirnova](mailto:annushc@gmail.com)
+# Links to social networks:
 * [Telegram](https://t.me/annushc)
+* [Instagram](https://www.instagram.com/annushc/)
+* [VK](https://vk.com/annushc)
+# E-mail addresses:
+* [Gmail](annushc@gmail.com)
