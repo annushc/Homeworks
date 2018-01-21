@@ -3,11 +3,11 @@
 
 # Profile Anna Smirnova 
 <img scr="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200" align="left"/> 
-name 
+<p>name 
 name 
 main 
-main
-<br clear="left"/> 
+main</p>
+<br clear="all"/> 
 
   
 # Pictures that inspire me
