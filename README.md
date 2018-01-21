@@ -4,14 +4,15 @@
 ## My Profile 
 <img src="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="250" height="250" align="left"/> 
 
-**Anna Smirnova** 
+**Anna Smirnova**                                               
 
 Personal information
 
-Moscow
+:milky_way: Moscow
 
-HSE Student
+:mortar_board: HSE Student
 
+Interests: :musical_note: :musical_keyboard: :basketball: :books: :clapper:
 
 <br clear="all"/> 
 
