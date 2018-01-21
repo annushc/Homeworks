@@ -5,7 +5,7 @@
 * Язык текстовой системы Markdown
 
 # Profile Anna Smirnova 
-<img src="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200" />
+<img src="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200"/>
 
 # Links to social networks:
 * [Telegram](https://t.me/annushc)
@@ -24,3 +24,13 @@ Time|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 15:10-16:30||Practical course of the first foreighn language (Practice of speech)|Научно-исследовательский семинар||History and culture of Great Britain (Seminar)|
 16:40-18:00|Digital literacy (Seminar)||||
 18:10-19:30|||History and culture of Great Britain (Lecture)|||
+
+Day/Time|9:00-10:20|10:30-11:50|12:10-13:30|13:40-15:00|15:10-16:30|16:40-18:00|18:10-19:30 
+---|:---:|---:|---:|---:|---:|---:|---:
+Sunday|нет|не знаю
+Monday|нет|да
+Tuesday|не знаю|да
+Wednesday|да|не знаю
+Thursday|не знаю|нет
+Friday|да|нет
+Saturday|
