@@ -20,10 +20,7 @@ main
 
   
 # Pictures that inspire me
-<img src="https://pp.userapi.com/c841030/v841030913/55ee4/7ctHybpbAxY.jpg" width="200" height="200" /> 
-<img src="https://pp.userapi.com/c834301/v834301156/41a5e/uPowXJlQMes.jpg" width="200" height="200" />
-<img src="https://pp.userapi.com/c840025/v840025156/1d3be/7C6qm1nLc48.jpg" width="200" height="200" />
-<img src="https://pp.userapi.com/c639429/v639429962/61026/bxv1aUL0dHU.jpg" width="200" height="200" />
+<img src="https://pp.userapi.com/c841030/v841030913/55ee4/7ctHybpbAxY.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c834301/v834301156/41a5e/uPowXJlQMes.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c840025/v840025156/1d3be/7C6qm1nLc48.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c639429/v639429962/61026/bxv1aUL0dHU.jpg" width="200" height="200" />
 
 
 
