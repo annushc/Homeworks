@@ -3,10 +3,11 @@
 
 # Profile Anna Smirnova 
 <img scr="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="200" height="200" align="left"/> 
-<p>name 
-name 
-main 
-main</p>
+Anna Smirnova
+
+Moscow
+
+
 <br clear="all"/> 
 
   
