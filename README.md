@@ -12,9 +12,9 @@
 
 :mortar_board: HSE Student
 
-Interests: :musical_note: :musical_keyboard: :basketball: :books: :clapper:
+**Interests**: :musical_note: :musical_keyboard: :basketball: :books: :clapper:
 
-Languages: English/ French/ Lingua Latina 
+**Languages**: English/ French/ Lingua Latina 
 
 <br clear="all"/> 
 
