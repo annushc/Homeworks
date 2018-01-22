@@ -5,7 +5,7 @@
 <img src="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="250" height="250" align="left"/> 
 
 ### **Anna Smirnova** 
-* * *
+
 **Personal information**
 
 :milky_way: Moscow
