@@ -1,11 +1,11 @@
-# Homework 1
-#### Seminar 1, *group БИЯ1712*
+## Homework 1
+#### Seminar 1, _group "БИЯ1712"_
 
 ## My Profile 
 <img src="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="250" height="250" align="left"/> 
 
 ### **Anna Smirnova** 
--------------------------
+* * *
 **Personal information**
 
 :milky_way: Moscow
@@ -13,6 +13,8 @@
 :mortar_board: HSE Student
 
 Interests: :musical_note: :musical_keyboard: :basketball: :books: :clapper:
+
+Languages: English/ French/ Lingua Latina 
 
 <br clear="all"/> 
 
@@ -30,7 +32,9 @@ Interests: :musical_note: :musical_keyboard: :basketball: :books: :clapper:
 ### E-mail addresses:
 * [Gmail](mailto:annushc@gmail.ru)
 * [Mail](mailto:annushc@mail.ru)
+
 ### My group's weekly schedule
+
 Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |9:00-10:20|||Practical course of the second foreighn language (French)
