@@ -1,12 +1,10 @@
 ## Homework 1
-#### Seminar 1, _group "БИЯ1712"_
+####  _group "БИЯ1712"_
 
 ## My Profile 
 <img src="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="250" height="250" align="left"/> 
 
-### **Anna Smirnova**
-
-**Personal information**
+## **Personal information**
 
 :milky_way: Moscow
 
@@ -24,9 +22,7 @@
 ### **Quote that motivates me**
 >*Follow your dreams, strive to achieve your goals and make your wishes come true, leave all you fears behind, find your own inspiration and let it guide you in your way... And the whole Universe will open the doors for you where there used to be walls"..."*
 
-
-
-### Links to social networks:
+### Links to accounts in social networks:
 * [Telegram](https://t.me/annushc)
 * [Instagram](https://www.instagram.com/annushc/)
 * [VK](https://vk.com/annushc)
