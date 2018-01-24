@@ -32,7 +32,8 @@
 * [Gmail](mailto:annushc@gmail.ru)
 * [Mail](mailto:annushc@mail.ru)
 
-### My group's weekly schedule
+* * *
+### <h3 align="center">My group's weekly schedule</h3>
 
 Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
