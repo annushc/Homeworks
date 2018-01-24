@@ -40,7 +40,7 @@ Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 10:30-11:50||Practical course of the first foreighn language (Practice of speech)|Practical course of the first foreighn language (Video)||Practical course of the first foreighn language (Grammar)|
 12:10-13:30||Practical course of the second foreighn language (French)|Practical course of the first foreighn language (Practice of speech)|Practical course of the first foreighn language (Phonetics)|Practical course of the first foreighn language (Grammar)|
 13:40-15:00|Digital literacy (Lecture)|Practical course of the second foreighn language (French)||Lingua Latina||
-15:10-16:30||Practical course of the first foreighn language (Practice of speech)|Научно-исследовательский семинар||History and culture of Great Britain (Seminar)|
+15:10-16:30||Practical course of the first foreighn language (Practice of speech)|Research seminar (Introduction to foreign literature)||History and culture of Great Britain (Seminar)|
 16:40-18:00|Digital literacy (Seminar)||||
 18:10-19:30|||History and culture of Great Britain (Lecture)|||
 
