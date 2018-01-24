@@ -36,7 +36,7 @@
 
 Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|`9:00-10:20`|||Practical course of the second foreighn language (French)
+|9:00-10:20|||Practical course of the second foreighn language (French)
 10:30-11:50||Practical course of the first foreighn language (Practice of speech)|Practical course of the first foreighn language (Video)||Practical course of the first foreighn language (Grammar)|
 12:10-13:30||Practical course of the second foreighn language (French)|Practical course of the first foreighn language (Practice of speech)|Practical course of the first foreighn language (Phonetics)|Practical course of the first foreighn language (Grammar)|
 13:40-15:00|Digital literacy (Lecture)|Practical course of the second foreighn language (French)||Lingua Latina||
