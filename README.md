@@ -6,7 +6,7 @@
 
 ### **Anna Smirnova**
 
-### Personal Information
+#### Personal Information
 
 :milky_way: Moscow
 
