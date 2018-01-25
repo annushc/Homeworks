@@ -28,7 +28,7 @@
 * [Telegram](https://t.me/annushc)
 * [Instagram](https://www.instagram.com/annushc/)
 * [VK](https://vk.com/annushc)
-### E-mail addresses:email::
+### E-mail addresses :email::
 * [Gmail](mailto:annushc@gmail.ru)
 * [Mail](mailto:annushc@mail.ru)
 
