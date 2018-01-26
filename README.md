@@ -45,7 +45,7 @@ Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 **16:40-18:00**|Digital literacy (Seminar)||||
 **18:10-19:30**|||History and culture of Great Britain (Lecture)|||
 
-### **Winter Bookshelf** :blue_book:
+### **Winter Bookshelf** :blue_book: :book:
 
 **January**|**February**|
 :---:|:---:|
@@ -53,4 +53,5 @@ Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 |✔ **Sir Thomas Malory**<br>*"Le Morte d’Arthur"*|**Samuel Taylor Coleridge**<br>*"Rime of the Ancient Mariner"*|
 |**William Shakespeare**<br>*"Romeo and Juliet"*<br>*"Sonnets"*<br>*"King Lear"*|**Charles Dickens**<br>*"Great Expectations"*|
 |**John Miltoт**<br>*"Paradise Lost"*|**Oscar Wilde**<br>*"An Ideal Husband"*|
-|**Virginia Woolf**<br>* "Mrs. Dalloway"* |**F. Scott Fitzgerald**<br>*"The Great Gatsby"*
+|**Virginia Woolf**<br>*"Mrs. Dalloway"* |**F. Scott Fitzgerald**<br>*"The Great Gatsby"*
+
