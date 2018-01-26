@@ -20,8 +20,11 @@
 
 ### My Inspiration:
 <img src="https://pp.userapi.com/c841030/v841030913/55ee4/7ctHybpbAxY.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c834301/v834301156/41a5e/uPowXJlQMes.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c840025/v840025156/1d3be/7C6qm1nLc48.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c639429/v639429962/61026/bxv1aUL0dHU.jpg" width="200" height="200" />
+
 ### **Quote that motivates me**
 >*Follow your dreams, strive to achieve your goals and make your wishes come true, leave all you fears behind, find your own inspiration and let it guide you in your way... And the whole Universe will open the doors for you where there used to be walls"..."*
+
+### **Welcome to my world...**
 <img src="https://pp.userapi.com/c840734/v840734529/49d78/QiQqAoTbyjM.jpg" width="270" height="340" align="left"/> 
 
 
