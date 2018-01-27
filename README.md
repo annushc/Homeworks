@@ -25,7 +25,7 @@
 >*Follow your dreams, strive to achieve your goals and make your wishes come true, leave all you fears behind, find your own inspiration and let it guide you in your way... And the whole Universe will open the doors for you where there used to be walls"..."*
 
 ### **Welcome to my world...**
-<img src="https://pp.userapi.com/c7006/v7006557/38885/4NXS8E0Iocg.jpg" width="310" height="400" align="left"/> 
+<img src="https://pp.userapi.com/c840734/v840734529/49d78/QiQqAoTbyjM.jpg" width="310" height="410" align="left"/> 
 
 #### **My lifestyle:** try to see something miraculous in something ordinary
 
