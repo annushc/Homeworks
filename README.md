@@ -1,5 +1,5 @@
 ## Homework 1
-####  _group "БИЯ1712"_
+####  *group "БИЯ1712"*
 
 ## My Profile 
 <img src="https://pp.userapi.com/c637725/v637725238/41f6d/Mcc4RwIDMxc.jpg" width="250" height="250" align="left"/> 
@@ -65,3 +65,4 @@ Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 |**John Miltoт**<br>*"Paradise Lost"*|**Oscar Wilde**<br>*"An Ideal Husband"*|
 |**Virginia Woolf**<br>*"Mrs. Dalloway"* |**F. Scott Fitzgerald**<br>*"The Great Gatsby"*
 
+<img src="https://pp.userapi.com/c841122/v841122802/185e2/i5NuLgVMiWc.jpg" width="200" height="200"/> <img src="https://pp.userapi.com/c840629/v840629762/53b2/iGx-S-McH_o.jpg" width="200" height="200"/> <img src="https://pp.userapi.com/c841430/v841430317/5a251/1Gp4HmFoZeg.jpg" width="200" height="200"/> <img src="https://pp.userapi.com/c543105/v543105099/2e8ff/EPQ7EwDbiyk.jpg" width="200" height="200"/> 
