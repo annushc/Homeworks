@@ -63,7 +63,9 @@ Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 |✔ **Sir Thomas Malory**<br>*"Le Morte d’Arthur"*|**Samuel Taylor Coleridge**<br>*"Rime of the Ancient Mariner"*|
 |**William Shakespeare**<br>*"Romeo and Juliet"*<br>*"Sonnets"*<br>*"King Lear"*|**Charles Dickens**<br>*"Great Expectations"*|
 |**John Miltoт**<br>*"Paradise Lost"*|**Oscar Wilde**<br>*"An Ideal Husband"*|
-|**Virginia Woolf**<br>*"Mrs. Dalloway"* |**F. Scott Fitzgerald**<br>*"The Great Gatsby"*
+|**Virginia Woolf**<br>*"Mrs. Dalloway"* |**F. Scott Fitzgerald**<br>*"The Great Gatsby"* 
+
+* * *
 
 <h3 align="center"><img src="https://pp.userapi.com/c841122/v841122802/185e2/i5NuLgVMiWc.jpg" width="200" height="200"/> 
 <img src="https://pp.userapi.com/c840629/v840629762/53b2/iGx-S-McH_o.jpg" width="200" height="200"/> 
