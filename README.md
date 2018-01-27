@@ -6,7 +6,7 @@
 
 ### **Anna Smirnova**
 
-#### Personal Information
+#### __Personal Information__
 
 :milky_way: Moscow
 
@@ -46,8 +46,6 @@
 ### E-mail addresses :email::
 * [Gmail](mailto:annushc@gmail.ru)
 * [Mail](mailto:annushc@mail.ru)
-
-
 
 * * *
 ### <h3 align="center">My group's weekly schedule</h3>
