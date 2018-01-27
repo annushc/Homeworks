@@ -29,7 +29,7 @@
 
 #### **My lifestyle:** try to see something miraculous in something ordinary
 
-*I'm a dreamer. I fond of music and music is the source of my daily inspiration. In the evenings I like to play the piano or guitar.*
+*I'm a dreamer. I fond of music and music is the source of my daily inspiration. In the evenings I like to play the piano or the guitar.*
 
 <br clear="all"/>
 
