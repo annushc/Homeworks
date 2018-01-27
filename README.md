@@ -29,7 +29,12 @@
 
 #### **My lifestyle:** try to see something miraculous in something ordinary
 
-*I'm a dreamer. I fond of music and music is the source of my daily inspiration. In the evenings I like to play the piano or the guitar.*
+*I'm a dreamer. I fond of music and music is the source of my daily inspiration. In the evenings I like to play the piano or the guitar.* *Atmosphere of coziness makes me feel happy and I enjoy sharing evenings with my relatives and friends.*
+*I try to lead healthy and active lifestyle and do regular sport exercises. By the way, in summer I often play basketball with my friends. And I like it so much.*
+
+#### **Plans for the future:**
+*Each person has his or her own dreams and plans for the nearest future, and I'm not an exception. However, in fact, I believe that it is more important to live here and now, to strive for a happy future, but also not to forget about the present. Therefore, my most important goal for today is to get better and to become the best version of myself,strive to color every new day with bright colors, because it will never happen again. 
+In our life we often face doubts and the adoption of crucial decisions. And I do not know where my choice and my decisions will lead me after few years. But I know for sure that I'm on the right way.*
 
 <br clear="all"/>
 
