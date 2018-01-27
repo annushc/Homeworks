@@ -27,9 +27,9 @@
 ### **Welcome to my world...**
 <img src="https://pp.userapi.com/c840734/v840734529/49d78/QiQqAoTbyjM.jpg" width="270" height="340" align="left"/> 
 
-My lifestyle: I'm a dreamer. I fond of music and music it is the source of my daily inspiration. In the evenings I like
+#### **My lifestyle:** 
 
-
+*I'm a dreamer. I fond of music and music is the source of my daily inspiration. In the evenings I like to play the piano or guitar.*
 
 <br clear="all"/>
 
