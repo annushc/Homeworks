@@ -19,7 +19,10 @@
 <br clear="all"/> 
 
 ### My Inspiration:
-<img src="https://pp.userapi.com/c841030/v841030913/55ee4/7ctHybpbAxY.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c834301/v834301156/41a5e/uPowXJlQMes.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c840025/v840025156/1d3be/7C6qm1nLc48.jpg" width="200" height="200" />             <img src="https://pp.userapi.com/c639429/v639429962/61026/bxv1aUL0dHU.jpg" width="200" height="200" />
+<h3 align="center"><img src="https://pp.userapi.com/c841030/v841030913/55ee4/7ctHybpbAxY.jpg" width="200" height="200" /> 
+<img src="https://pp.userapi.com/c834301/v834301156/41a5e/uPowXJlQMes.jpg" width="200" height="200" />           
+<img src="https://pp.userapi.com/c840025/v840025156/1d3be/7C6qm1nLc48.jpg" width="200" height="200" />            
+<img src="https://pp.userapi.com/c639429/v639429962/61026/bxv1aUL0dHU.jpg" width="200" height="200" /></h3>
 
 ### **Quote that motivates me**
 >*Follow your dreams, strive to achieve your goals and make your wishes come true, leave all you fears behind, find your own inspiration and let it guide you in your way... And the whole Universe will open the doors for you where there used to be walls"..."*
@@ -65,4 +68,7 @@ Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 |**John Miltoт**<br>*"Paradise Lost"*|**Oscar Wilde**<br>*"An Ideal Husband"*|
 |**Virginia Woolf**<br>*"Mrs. Dalloway"* |**F. Scott Fitzgerald**<br>*"The Great Gatsby"*
 
-<img src="https://pp.userapi.com/c841122/v841122802/185e2/i5NuLgVMiWc.jpg" width="200" height="200"/> <img src="https://pp.userapi.com/c840629/v840629762/53b2/iGx-S-McH_o.jpg" width="200" height="200"/> <img src="https://pp.userapi.com/c841430/v841430317/5a251/1Gp4HmFoZeg.jpg" width="200" height="200"/> <img src="https://pp.userapi.com/c543105/v543105099/2e8ff/EPQ7EwDbiyk.jpg" width="200" height="200"/> 
+<h3 align="center"><img src="https://pp.userapi.com/c841122/v841122802/185e2/i5NuLgVMiWc.jpg" width="200" height="200"/> 
+<img src="https://pp.userapi.com/c840629/v840629762/53b2/iGx-S-McH_o.jpg" width="200" height="200"/> 
+<img src="https://pp.userapi.com/c841430/v841430317/5a251/1Gp4HmFoZeg.jpg" width="200" height="200"/> 
+<img src="https://pp.userapi.com/c543105/v543105099/2e8ff/EPQ7EwDbiyk.jpg" width="200" height="200"/></h3> 
