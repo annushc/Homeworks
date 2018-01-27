@@ -25,7 +25,7 @@
 >*Follow your dreams, strive to achieve your goals and make your wishes come true, leave all you fears behind, find your own inspiration and let it guide you in your way... And the whole Universe will open the doors for you where there used to be walls"..."*
 
 ### **Welcome to my world...**
-<img src="https://pp.userapi.com/c840734/v840734529/49d78/QiQqAoTbyjM.jpg" width="310" height="410" align="left"/> 
+<img src="https://pp.userapi.com/c840734/v840734529/49d78/QiQqAoTbyjM.jpg" width="315" height="420" align="left"/> 
 
 #### **My lifestyle:** try to see something miraculous in something ordinary
 
@@ -33,7 +33,7 @@
 *I try to lead healthy and active lifestyle and do regular sport exercises. So, in summer I often play basketball with my friends. And I like it so much!*
 
 #### **Plans for the future:**
-*Each person has his or her own dreams and plans for the nearest future, and I'm not an exception. However, in fact, I believe that it is more important to live here and now, to strive for a happy future but also not to forget about the present. Therefore, my most important goal for today is to get better with each day to become the best version of myself and to strive to color every new day with bright colors because it will never happen again. In life we often face with doubts and the adoption of crucial decisions. And I don't know where my choice and my decisions will lead me after a few years. But I know for sure that I'm on the right way.*
+*Each person has his or her own dreams and plans for the nearest future, and I'm not an exception. However, in fact, I believe that it is more important to live here and now, to strive for a happy future but also not to forget about the present. Therefore, my most important goal for today is to get better with each day to become the best version of myself and to strive to color every new day with bright colors because it will never happen again. In life we often face with doubts and the adoption of crucial decisions.              And I don't know where my choices and my decisions will lead me after a few years. But I know for sure that I'm on the right way.*
 
 <br clear="all"/>
 
@@ -63,7 +63,7 @@ Time/Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 :---:|:---:|
 |✔ *"Beowulf"*|**Daniel Defoe**<br>*"Robinson Crusoe"*|
 |✔ **Sir Thomas Malory**<br>*"Le Morte d’Arthur"*|**Samuel Taylor Coleridge**<br>*"Rime of the Ancient Mariner"*|
-|**William Shakespeare**<br>*"Romeo and Juliet"*<br>✔*"Sonnets"*<br>*"King Lear"*|**Charles Dickens**<br>*"Great Expectations"*|
+|**William Shakespeare**<br>*"Romeo and Juliet"*<br>✔ *"Sonnets"*<br>*"King Lear"*|**Charles Dickens**<br>*"Great Expectations"*|
 |**John Miltoт**<br>*"Paradise Lost"*|**Oscar Wilde**<br>*"An Ideal Husband"*|
 |**Virginia Woolf**<br>*"Mrs. Dalloway"* |**F. Scott Fitzgerald**<br>*"The Great Gatsby"* 
 
