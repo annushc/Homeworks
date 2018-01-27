@@ -35,7 +35,7 @@
 #### **Plans for the future:**
 *Each person has his or her own dreams and plans for the nearest future, and I'm not an exception. However, in fact, I believe that it is more important to live here and now, to strive for a happy future but also not to forget about the present. Therefore, my most important goal for today is to get better with each day to become the best version of myself and to strive to color every new day with bright colors because it will never happen again.*
 
-***In life we often face with doubts and the adoption of crucial decisions. And I do not know where my choice and my decisions will lead me after a few years. But I know for sure that I'm on the right way.***
+*In life we often face with doubts and the adoption of crucial decisions. And I do not know where my choice and my decisions will lead me after a few years. But I know for sure that I'm on the right way.*
 
 <br clear="all"/>
 
